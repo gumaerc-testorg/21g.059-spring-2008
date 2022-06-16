@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the first two essays assigned during
+  the semester, and an example student response to the first prompt.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ Please select one of the two topics listed below:
 
 Style: Limit quotations to a maximum of 50 words total and document your sources according to the MLA style manual ([here](http://web.mit.edu/writing/NEW/)), where you will also find pertinent advice on avoiding plagiarism. Information about your name, course, semester, topic etc. should be placed on a separate title page and must not be included in the word count. Please double-space and staple all pages.
 
-Mariel Dela Cruz, "Luther's Place in European Intellectual History." ([PDF]({{< baseurl >}}/resources/mit21g_059s08_delacruz))
+Mariel Dela Cruz, "Luther's Place in European Intellectual History." ({{% resource_link 19c2738b-ab54-3d6e-e092-74d85db0e7c8 "PDF" %}})
 
 Second Essay
 ------------
