@@ -6,6 +6,7 @@ file: /courses/21g-059-european-thought-and-culture-spring-2008/19c2738bab543d6e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Luther\u2019s Place in European Intellectual History"
 uid: 19c2738b-ab54-3d6e-e092-74d85db0e7c8
 ---
 Example student essay on Luther’s place in European intellectual history.
-
