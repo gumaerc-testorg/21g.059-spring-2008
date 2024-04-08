@@ -15,31 +15,31 @@ The following links may involve subscription-only services, which may be availab
 
 #### *Books*
 
-Barton Catalog — [MIT's Library Catalog](http://library.mit.edu/F/?func=file&file_name=find-b)
+Barton Catalog — {{% resource_link "9c6cf00e-5fb7-4a1e-8573-11d53a51e832" "MIT's Library Catalog" %}}
 
 #### *Electronic Materials*
 
-VERA — MIT [Virtual Electronic Resources Access](http://vera.mit.edu)
+VERA — MIT {{% resource_link "fccf56ad-1d66-441c-9814-bf21bb2f31c3" "Virtual Electronic Resources Access" %}}
 
-Philosopher's Index — Available online through: [CSA Illumina](http://usage.csa.com/usage/usage.php). Index and abstracts of some 500 journal articles (1940-present).
+Philosopher's Index — Available online through: {{% resource_link "a05bfba8-10f6-4414-8a85-5f7f30c64e3d" "CSA Illumina" %}}. Index and abstracts of some 500 journal articles (1940-present).
 
 #### *Background Information*
 
-Simpson, J. A., and E. S. C. Weiner. *The Oxford English Dictionary*. New York, NY: Oxford University Press, 1989. ISBN: 9780198611868. Online at [Oxford English Dictionary](http://oed.com/) or through your local library.
+Simpson, J. A., and E. S. C. Weiner. *The Oxford English Dictionary*. New York, NY: Oxford University Press, 1989. ISBN: 9780198611868. Online at {{% resource_link "bdf6c7ee-006f-4a26-b28b-c225d7be0604" "Oxford English Dictionary" %}} or through your local library.
 
 #### *Definitions and etymologies*
 
-[Oxford Reference Online](http://www.oxfordreference.com/view/10.1093/acref/9780198609957.001.0001/acref-9780198609957-e-3404?rskey=7leKMf&result=1&q=global) — Excellent source for definitions and quick background information. Covers a variety of disciplines.
+{{% resource_link "dbfb15cf-acf0-44cb-bf20-5f1bce61f68a" "Oxford Reference Online" %}} — Excellent source for definitions and quick background information. Covers a variety of disciplines.
 
  Honderich, Ted. *The Oxford Companion to Philosophy*. Oxford, England: Oxford University Press, 2005. ISBN: 9780199264797.
 
-[Dictionary of Philosophical Terms and Names](http://philosophypages.com/dy/index.htm) — 1000 entries covering names and terms.
+{{% resource_link "d37fe14f-e20d-401f-856c-56137dcd9951" "Dictionary of Philosophical Terms and Names" %}} — 1000 entries covering names and terms.
 
-[Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/contents.html) — Entries and updates are refereed.
+{{% resource_link "7b3194f6-7d96-4174-b6fe-48a21ecc465b" "Stanford Encyclopedia of Philosophy" %}} — Entries and updates are refereed.
 
-Horowitz, Maryanne Cline. *New Dictionary of the History of Ideas*. Detroit, MI: Charles Scribner's Sons, 2004. ISBN: 9780684313771. Available online through: [GALE](http://www.gale.cengage.com/)
+Horowitz, Maryanne Cline. *New Dictionary of the History of Ideas*. Detroit, MI: Charles Scribner's Sons, 2004. ISBN: 9780684313771. Available online through: {{% resource_link "6e46a23e-4a13-40d3-b5ed-fc01d4892fe8" "GALE" %}}
 
-[Routledge Encyclopedia of Philosophy Online](http://www.rep.routledge.com/)
+{{% resource_link "3f10a10d-6a8a-4c4d-9e98-a5e94a01ed91" "Routledge Encyclopedia of Philosophy Online" %}}
 
 Craig, Edward. *The Shorter Routledge Encyclopedia of Philosophy*. New York, NY: Routledge, 2005. ISBN: 9780415324953.
 
@@ -86,16 +86,16 @@ Check the following:
 
 Gibaldi, Joseph. *MLA Handbook for Writers of Research Papers*. New York, NY: Modern Language Association of America, 2003. ISBN: 9780873529860.
 
-[What is MLA Style?](http://mla.org/MLA-Style)
+{{% resource_link "5d324dbd-1756-4d5f-b81e-e5c3548ab567" "What is MLA Style?" %}}
 
-[MLA site's FAQ](https://style.mla.org/?_ga=2.179288676.1994382283.1589900639-555236222.1589900639) (e.g. I am using a source on the Web that has no page numbers. How do I cite it?)
+{{% resource_link "73bd1b78-1930-4895-bc07-629d8519364d" "MLA site's FAQ" %}} (e.g. I am using a source on the Web that has no page numbers. How do I cite it?)
 
-The [MIT Writing Center](http://web.mit.edu/writing/) at directs you to the University of Wisconsin's page about the MLA basics. Other good sources include:
+The {{% resource_link "dc60d394-0a4d-4ec6-afcb-7b95eb925148" "MIT Writing Center" %}} at directs you to the University of Wisconsin's page about the MLA basics. Other good sources include:
 
-- [The Owl at Purdue](http://owl.english.purdue.edu/owl/resource/557/01/)
-- [Dr. Abel Scribe](https://www.yumpu.com/en/document/view/11289534/apa-style-precis-dr-abel-scribes-guides-to-style-documentation)
+- {{% resource_link "c000ef55-649a-4804-af71-219bf47dfaab" "The Owl at Purdue" %}}
+- {{% resource_link "daa39aa6-e965-4bf4-b144-5d9d790695b2" "Dr. Abel Scribe" %}}
 
 #### *Managing your citations*
 
-- [Refworks](https://refworks.proquest.com/)
-- [Zotero](http://www.zotero.org/)
+- {{% resource_link "71d96045-983b-4d7a-89bc-2f0d0c0d60c3" "Refworks" %}}
+- {{% resource_link "b8b62e69-0f8b-412e-83fc-55d769ccfdc4" "Zotero" %}}
