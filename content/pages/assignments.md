@@ -19,7 +19,7 @@ Please select one of the two topics listed below:
 *   Topic A: Why do we study Martin Luther's theology in a class on European intellectual history?
 *   Topic B: Reconstruct the line of argument pursued by Galilei in his "Letter to the Grand Duchess Christina."
 
-Style: Limit quotations to a maximum of 50 words total and document your sources according to the MLA style manual ({{% resource_link "5e28be70-12fa-46cc-8f17-7b0c8e341df1" "here" %}}), where you will also find pertinent advice on avoiding plagiarism. Information about your name, course, semester, topic etc. should be placed on a separate title page and must not be included in the word count. Please double-space and staple all pages.
+Style: Limit quotations to a maximum of 50 words total and document your sources according to the MLA style manual ([here](http://web.mit.edu/writing/NEW/)), where you will also find pertinent advice on avoiding plagiarism. Information about your name, course, semester, topic etc. should be placed on a separate title page and must not be included in the word count. Please double-space and staple all pages.
 
 Mariel Dela Cruz, "Luther's Place in European Intellectual History." ({{% resource_link 19c2738b-ab54-3d6e-e092-74d85db0e7c8 "PDF" %}})
 
@@ -31,4 +31,4 @@ Please select one of the two topics listed below:
 *   Topic A: Write a critique of Hobbes from the perspective of Locke.
 *   Topic B: Write a critique of Hobbes from the perspective of Rousseau.
 
-Style: Limit quotations to a maximum of 50 words total and document your sources according to the MLA style manual ({{% resource_link "5e28be70-12fa-46cc-8f17-7b0c8e341df1" "here" %}}), where you will also find pertinent advice on avoiding plagiarism.
+Style: Limit quotations to a maximum of 50 words total and document your sources according to the MLA style manual ([here](http://web.mit.edu/writing/NEW/)), where you will also find pertinent advice on avoiding plagiarism.
