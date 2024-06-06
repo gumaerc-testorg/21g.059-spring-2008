@@ -47,13 +47,13 @@ Introduction (none)
 {{< tdopen >}}
 
 
-Luther, Martin. "The Ninety-Five Theses." ({{% resource_link "57e46a06-cd39-4792-9dc7-2efe5e14e378" "Gutenberg text" %}})
+Luther, Martin. "The Ninety-Five Theses." ([Gutenberg text](http://www.gutenberg.org/etext/274))
 
-———. "{{% resource_link "20416f6a-e9dc-4ee6-8a80-2cec7557c389" "On the Babylonish Captivity of the Church" %}}."
+———. "[On the Babylonish Captivity of the Church](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=720&chapter=87718&layout=html&Itemid=27)."
 
 ———. "The Twelve Articles of Peasants."
 
-Calvin, John. "{{% resource_link "cbc39e56-e0e0-45aa-9ad0-d3026ecaddc2" "The Institutes of the Christian Church" %}}." (Excerpts)
+Calvin, John. "[The Institutes of the Christian Church](http://www.ccel.org/ccel/calvin/institutes.html)." (Excerpts)
 
 
 {{< tdclose >}}
@@ -69,7 +69,7 @@ Calvin, John. "{{% resource_link "cbc39e56-e0e0-45aa-9ad0-d3026ecaddc2" "The Ins
 {{< tdopen >}}
 
 
-Galilei, Galileo. "{{% resource_link "229af731-4cc3-4e00-b764-bac0e895aa70" "Letter to the Grand Duchess Christina" %}}."
+Galilei, Galileo. "[Letter to the Grand Duchess Christina](http://www.fordham.edu/halsall/mod/galileo-tuscany.html)."
 
 ———. "What is Scientific Authority?" (Excerpts)
 
@@ -85,7 +85,7 @@ Galilei, Galileo. "{{% resource_link "229af731-4cc3-4e00-b764-bac0e895aa70" "Let
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Descartes, Rene. "Discourse Upon Method." (Excerpts) ({{% resource_link "fa6db5f4-fbad-4517-82f9-334135658b58" "Gutenberg text" %}})
+Descartes, Rene. "Discourse Upon Method." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/59))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -97,7 +97,7 @@ Descartes, Rene. "Discourse Upon Method." (Excerpts) ({{% resource_link "fa6db5f
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Hobbes, Thomas. "The Leviathan." (Excerpts) ({{% resource_link "19b3a2ca-1f32-42d2-a1c1-45871008ff84" "Gutenberg text" %}})
+Hobbes, Thomas. "The Leviathan." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/3207))
 {{< tdclose >}}
 {{< tdopen >}}
 First essay is due
@@ -109,7 +109,7 @@ First essay is due
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Locke, John. "The Second Treatise of Government." (Excerpts) ({{% resource_link "42e4e03e-29d9-4ad8-9e4f-8e71be46b1db" "Gutenberg text" %}})
+Locke, John. "The Second Treatise of Government." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/7370))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -121,7 +121,7 @@ Locke, John. "The Second Treatise of Government." (Excerpts) ({{% resource_link 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Baron de Montesquieu. "{{% resource_link "460f20fb-f512-4ca7-a8d7-e1985dd63610" "The Spirit of the Laws" %}}." (Excerpts)
+Baron de Montesquieu. "[The Spirit of the Laws](http://www.fordham.edu/halsall/mod/montesquieu-spirit.html)." (Excerpts)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -133,7 +133,7 @@ Baron de Montesquieu. "{{% resource_link "460f20fb-f512-4ca7-a8d7-e1985dd63610" 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Baron de Montesquieu. {{% resource_link "c7affab8-29b3-4cc3-ae3c-4f7afc1f5273" "_Persian Letters_" %}}. (Excerpts)
+Baron de Montesquieu. [_Persian Letters_](https://chnm.gmu.edu/revolution/d/271/). (Excerpts)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -145,7 +145,7 @@ Baron de Montesquieu. {{% resource_link "c7affab8-29b3-4cc3-ae3c-4f7afc1f5273" "
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Rousseau, Jean-Jacques. "The Social Contract." (Excerpts) ({{% resource_link "8c26f79b-8449-4ea9-8293-a639fbb1b167" "Wikisource text" %}})
+Rousseau, Jean-Jacques. "The Social Contract." (Excerpts) ([Wikisource text](http://en.wikisource.org/wiki/The_Social_Contract))
 {{< tdclose >}}
 {{< tdopen >}}
 Revision of first essay is due
@@ -157,7 +157,7 @@ Revision of first essay is due
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Hume, David. "{{% resource_link "03b53a1b-d3ce-4442-b7ee-1d2dcb9f4284" "The Essay on Miracles" %}}." (Excerpts)
+Hume, David. "[The Essay on Miracles](http://www.fordham.edu/halsall/mod/hume-miracles.html)." (Excerpts)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -169,7 +169,7 @@ Hume, David. "{{% resource_link "03b53a1b-d3ce-4442-b7ee-1d2dcb9f4284" "The Essa
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Kant, Immanuel. "{{% resource_link "d6f560cd-2ecc-4dd0-8824-64b7c6e8f50d" "What is Enlightenment" %}}?"
+Kant, Immanuel. "[What is Enlightenment](http://www.fordham.edu/halsall/mod/kant-whatis.html)?"
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -183,9 +183,9 @@ Kant, Immanuel. "{{% resource_link "d6f560cd-2ecc-4dd0-8824-64b7c6e8f50d" "What 
 {{< tdopen >}}
 
 
-Frederick the Great. "{{% resource_link "8abdf929-f2b0-43fc-b9aa-79df73056db0" "The Political Testament of Frederick II" %}}."
+Frederick the Great. "[The Political Testament of Frederick II](http://www.thenagain.info/Classes/Sources/Frederick%20the%20Great.html)."
 
-———. "{{% resource_link "0a274b1a-0387-44e4-aa46-6b50f084455a" "Forms of Government" %}}." (Excerpts)
+———. "[Forms of Government](http://www.fordham.edu/halsall/mod/18fred2.html)." (Excerpts)
 
 
 {{< tdclose >}}
@@ -201,9 +201,9 @@ Frederick the Great. "{{% resource_link "8abdf929-f2b0-43fc-b9aa-79df73056db0" "
 {{< tdopen >}}
 
 
-"{{% resource_link "69bd946d-5b85-4f7b-81b8-1010e21e5495" "Decree of the French National Assembly Abolishing the Feudal System" %}}."
+"[Decree of the French National Assembly Abolishing the Feudal System](http://history.hanover.edu/texts/abolfeud.html)."
 
-"The Declaration of the Rights of Man and Citizen." ({{% resource_link "39753763-e84d-46b7-a4de-e09ca4e4d0d6" "Wikisource text" %}})
+"The Declaration of the Rights of Man and Citizen." ([Wikisource text](http://en.wikisource.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen))
 
 
 {{< tdclose >}}
@@ -219,11 +219,11 @@ Frederick the Great. "{{% resource_link "8abdf929-f2b0-43fc-b9aa-79df73056db0" "
 {{< tdopen >}}
 
 
-de Gouges, Olympe. "Declaration of the Rights of Women and Female Citizens." ({{% resource_link "834ab22f-6d80-4aff-b9e6-3febc67d9d57" "Wikisource text" %}})
+de Gouges, Olympe. "Declaration of the Rights of Women and Female Citizens." ([Wikisource text](http://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Woman_and_the_Female_Citizen))
 
 de Robespierre, Maximilien. "Notes."
 
-———. "{{% resource_link "7e6e358a-205c-4422-93f5-eca2116b5873" "Democracy and Terror" %}}."
+———. "[Democracy and Terror](http://www.fordham.edu/halsall/mod/robespierre-terror.html)."
 
 
 {{< tdclose >}}
@@ -239,7 +239,7 @@ de Robespierre, Maximilien. "Notes."
 {{< tdopen >}}
 
 
-Burke, Edmund. "Reflections on the French Revolution." (Excerpts) ({{% resource_link "0de13cb5-6fe4-40a2-89b0-45997a78cd2f" "Wikisource text" %}})
+Burke, Edmund. "Reflections on the French Revolution." (Excerpts) ([Wikisource text](http://en.wikisource.org/wiki/Reflections_on_the_Revolution_in_France))
 
 "The Holy Alliance."
 
@@ -259,9 +259,9 @@ Second essay is due
 
 Madame de Stäel. "Romanticism." (Excerpts)
 
-Blake, William. "Mock on, Mock on, Voltaire, Rousseau." ({{% resource_link "a798f6ea-1148-4740-9caf-32286f656a3f" "Wikisource text" %}})
+Blake, William. "Mock on, Mock on, Voltaire, Rousseau." ([Wikisource text](http://en.wikisource.org/wiki/%22Mock_on,_Mock_on,_Voltaire,_Rousseau%22))
 
-Wordsworth, William. "London." ({{% resource_link "0fe9e223-74a4-4911-9a9a-70030fc85163" "Wikisource text" %}})
+Wordsworth, William. "London." ([Wikisource text](http://en.wikisource.org/wiki/London,_1802))
 
 
 {{< tdclose >}}
@@ -275,7 +275,7 @@ Wordsworth, William. "London." ({{% resource_link "0fe9e223-74a4-4911-9a9a-70030
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Smith, Adam. "The Wealth of Nations." (Excerpts) ({{% resource_link "00f4c5dc-d30e-4635-964a-083c380ccac9" "Gutenberg text" %}})
+Smith, Adam. "The Wealth of Nations." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/3300))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -287,7 +287,7 @@ Smith, Adam. "The Wealth of Nations." (Excerpts) ({{% resource_link "00f4c5dc-d3
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Marx, Karl. "The Communist Manifesto." ({{% resource_link "c0280887-604c-4d71-b133-9b07d4351d96" "Gutenberg text" %}})
+Marx, Karl. "The Communist Manifesto." ([Gutenberg text](http://www.gutenberg.org/etext/61))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -301,9 +301,9 @@ Marx, Karl. "The Communist Manifesto." ({{% resource_link "c0280887-604c-4d71-b1
 {{< tdopen >}}
 
 
-Mill, John Stuart. "Essay on Utilitarianism." (Excerpts) ({{% resource_link "380b2511-53fc-450b-99fc-0ddb361356da" "Gutenberg text" %}})
+Mill, John Stuart. "Essay on Utilitarianism." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/11224))
 
-———. "On Liberty." (Excerpts) ({{% resource_link "a06a1743-d1b0-4c48-a125-93a7c07b0914" "Wikisource text" %}})
+———. "On Liberty." (Excerpts) ([Wikisource text](http://en.wikisource.org/wiki/On_Liberty))
 
 
 {{< tdclose >}}
@@ -319,7 +319,7 @@ Mill, John Stuart. "Essay on Utilitarianism." (Excerpts) ({{% resource_link "380
 {{< tdopen >}}
 
 
-Kropotkin, Pietr. "{{% resource_link "caf9ca09-9710-4b7e-bdd3-15475cfaadbd" "Anarchism: Its Philosophy and Ideal" %}}." (Excerpts)
+Kropotkin, Pietr. "[Anarchism: Its Philosophy and Ideal](http://www.fordham.edu/halsall/mod/1896kropotkin.html)." (Excerpts)
 
 von Bismarck, Otto. "A Speech to the Prussian Budget Commission."
 
@@ -339,9 +339,9 @@ Third essay is due
 {{< tdopen >}}
 
 
-Nietzsche, Friedrich. "Beyond Good and Evil." (Excerpts) ({{% resource_link "29c9446e-998c-4a6c-acb7-d59593bb9b4d" "Gutenberg text" %}})
+Nietzsche, Friedrich. "Beyond Good and Evil." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/4363))
 
-———. "Thus Spoke Zarathustra." (Excerpts) ({{% resource_link "cd1e1e3c-d45b-40b3-b645-b56366f5eef9" "Gutenberg text" %}})
+———. "Thus Spoke Zarathustra." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/1998))
 
 
 {{< tdclose >}}
@@ -359,7 +359,7 @@ Nietzsche, Friedrich. "Beyond Good and Evil." (Excerpts) ({{% resource_link "29c
 
 Freud, Sigmund. "Civilization and its Discontents." (Excerpts/Copies)
 
-———. "Dream Psychology." (Excerpts) ({{% resource_link "09db9d28-aa1d-430c-acb8-1c9e75349295" "Gutenberg text" %}})
+———. "Dream Psychology." (Excerpts) ([Gutenberg text](http://www.gutenberg.org/etext/15489))
 
 
 {{< tdclose >}}
