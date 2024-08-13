@@ -13,15 +13,9 @@ The following links may involve subscription-only services, which may be availab
 
 ## I. Finding Information
 
-#### *Books*
-
-Barton Catalog — [MIT's Library Catalog](http://library.mit.edu/F/?func=file&file_name=find-b)
-
 #### *Electronic Materials*
 
-VERA — MIT [Virtual Electronic Resources Access](http://vera.mit.edu)
-
-Philosopher's Index — Available online through: [CSA Illumina](http://usage.csa.com/usage/usage.php). Index and abstracts of some 500 journal articles (1940-present).
+Philosopher's Index — Available online through: [CSA Illumina](https://www.igi-global.com/journals/indices/csa-illumina/12). Index and abstracts of some 500 journal articles (1940-present).
 
 #### *Background Information*
 
@@ -31,7 +25,7 @@ Simpson, J. A., and E. S. C. Weiner. *The Oxford English Dictionary*. New York, 
 
 [Oxford Reference Online](http://www.oxfordreference.com/view/10.1093/acref/9780198609957.001.0001/acref-9780198609957-e-3404?rskey=7leKMf&result=1&q=global) — Excellent source for definitions and quick background information. Covers a variety of disciplines.
 
- Honderich, Ted. *The Oxford Companion to Philosophy*. Oxford, England: Oxford University Press, 2005. ISBN: 9780199264797.
+Honderich, Ted. *The Oxford Companion to Philosophy*. Oxford, England: Oxford University Press, 2005. ISBN: 9780199264797.
 
 [Dictionary of Philosophical Terms and Names](http://philosophypages.com/dy/index.htm) — 1000 entries covering names and terms.
 
