@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example student essay on Luther\u2019s place in European intellectual\
   \ history."
-file: /courses/21g-059-european-thought-and-culture-spring-2008/19c2738bab543d6ee09274d85db0e7c8_MIT21G_059S08_delacruz.pdf
+file: /ol-ocw-studio-app/courses/21g-059-european-thought-and-culture-spring-2008/19c2738bab543d6ee09274d85db0e7c8_MIT21G_059S08_delacruz.pdf
 file_size: 136839
 file_type: application/pdf
 learning_resource_types:
