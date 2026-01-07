@@ -15,25 +15,25 @@ The following links may involve subscription-only services, which may be availab
 
 #### *Electronic Materials*
 
-Philosopher's Index — Available online through: {{% resource_link "2e3af213-e227-4efe-b668-7344ee11a428" "CSA Illumina" %}}. Index and abstracts of some 500 journal articles (1940-present).
+Philosopher's Index — Available online through: [CSA Illumina](https://www.igi-global.com/journals/indices/csa-illumina/12). Index and abstracts of some 500 journal articles (1940-present).
 
 #### *Background Information*
 
-Simpson, J. A., and E. S. C. Weiner. *The Oxford English Dictionary*. New York, NY: Oxford University Press, 1989. ISBN: 9780198611868. Online at {{% resource_link "1910ff2e-b976-47b2-8baa-57409d0747ec" "Oxford English Dictionary" %}} or through your local library.
+Simpson, J. A., and E. S. C. Weiner. *The Oxford English Dictionary*. New York, NY: Oxford University Press, 1989. ISBN: 9780198611868. Online at [Oxford English Dictionary](http://oed.com/) or through your local library.
 
 #### *Definitions and etymologies*
 
-{{% resource_link "724cc754-e300-4c19-b280-4545f06fc877" "Oxford Reference Online" %}} — Excellent source for definitions and quick background information. Covers a variety of disciplines.
+[Oxford Reference Online](http://www.oxfordreference.com/view/10.1093/acref/9780198609957.001.0001/acref-9780198609957-e-3404?rskey=7leKMf&result=1&q=global) — Excellent source for definitions and quick background information. Covers a variety of disciplines.
 
 Honderich, Ted. *The Oxford Companion to Philosophy*. Oxford, England: Oxford University Press, 2005. ISBN: 9780199264797.
 
-{{% resource_link "4c8e783e-0b91-4d9c-8aa9-9f38b8bfeb4d" "Dictionary of Philosophical Terms and Names" %}} — 1000 entries covering names and terms.
+[Dictionary of Philosophical Terms and Names](http://philosophypages.com/dy/index.htm) — 1000 entries covering names and terms.
 
-{{% resource_link "1844c9fc-6bdf-47b1-8d1d-9d4dc1dba502" "Stanford Encyclopedia of Philosophy" %}} — Entries and updates are refereed.
+[Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/contents.html) — Entries and updates are refereed.
 
-Horowitz, Maryanne Cline. *New Dictionary of the History of Ideas*. Detroit, MI: Charles Scribner's Sons, 2004. ISBN: 9780684313771. Available online through: {{% resource_link "33aa979b-073f-48de-8c69-9cf466d308bc" "GALE" %}}
+Horowitz, Maryanne Cline. *New Dictionary of the History of Ideas*. Detroit, MI: Charles Scribner's Sons, 2004. ISBN: 9780684313771. Available online through: [GALE](http://www.gale.cengage.com/)
 
-{{% resource_link "fbcbf5eb-5529-47f8-b2d5-766111157f8b" "Routledge Encyclopedia of Philosophy Online" %}}
+[Routledge Encyclopedia of Philosophy Online](http://www.rep.routledge.com/)
 
 Craig, Edward. *The Shorter Routledge Encyclopedia of Philosophy*. New York, NY: Routledge, 2005. ISBN: 9780415324953.
 
@@ -80,16 +80,16 @@ Check the following:
 
 Gibaldi, Joseph. *MLA Handbook for Writers of Research Papers*. New York, NY: Modern Language Association of America, 2003. ISBN: 9780873529860.
 
-{{% resource_link "a827354b-d424-4f37-a8d7-f4ade3c02c71" "What is MLA Style?" %}}
+[What is MLA Style?](http://mla.org/MLA-Style)
 
-{{% resource_link "3031c751-985b-4c8f-9d28-3c2303f813a4" "MLA site's FAQ" %}} (e.g. I am using a source on the Web that has no page numbers. How do I cite it?)
+[MLA site's FAQ](https://style.mla.org/?_ga=2.179288676.1994382283.1589900639-555236222.1589900639) (e.g. I am using a source on the Web that has no page numbers. How do I cite it?)
 
-The {{% resource_link "14b88522-577f-4463-931b-38c624f8209e" "MIT Writing Center" %}} at directs you to the University of Wisconsin's page about the MLA basics. Other good sources include:
+The [MIT Writing Center](http://web.mit.edu/writing/) at directs you to the University of Wisconsin's page about the MLA basics. Other good sources include:
 
-- {{% resource_link "3c1a73ba-76f2-4301-aeec-33f0767f1221" "The Owl at Purdue" %}}
-- {{% resource_link "cf11932a-867c-472b-bf39-9812b7ae81b6" "Dr. Abel Scribe" %}}
+- [The Owl at Purdue](http://owl.english.purdue.edu/owl/resource/557/01/)
+- [Dr. Abel Scribe](https://www.yumpu.com/en/document/view/11289534/apa-style-precis-dr-abel-scribes-guides-to-style-documentation)
 
 #### *Managing your citations*
 
-- {{% resource_link "59b1ee38-c0db-483f-80a0-7995feb13eec" "Refworks" %}}
-- {{% resource_link "12995cec-ba07-4316-ae5c-4e4e6d7d2e5d" "Zotero" %}}
+- [Refworks](https://refworks.proquest.com/)
+- [Zotero](http://www.zotero.org/)
